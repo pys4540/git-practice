@@ -9,4 +9,8 @@ members:
 - Pororo
 
 new commit!!
+<<<<<<< HEAD
 new commit3
+=======
+new commit2!!
+>>>>>>> 5cfb1d052319e02ed817cdaad729d6c37ba15917
