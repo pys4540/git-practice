@@ -14,5 +14,6 @@ members:
 - New Git
 - Gamora
 - Nebula
+- stash
 
 fetch: this
